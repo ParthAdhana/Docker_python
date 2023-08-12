@@ -14,13 +14,6 @@ This repository is my playground for learning Docker and Python. In this project
 
 Python is a powerful, versatile, and easy-to-read programming language. In this project, I have created a simple Python server that listens on port 3000 and responds to incoming GET requests. The server responds with a "hello" message when accessed at the `/hello` endpoint.
 
-## Getting Started
-
-To run this project on your local machine, follow these steps:
-
-1. Make sure you have Docker installed on your system.
-2. Clone this repository to your local machine using the following command:
-
 ## Additional Notes
 Feel free to explore and modify the Python server code (server.py) to experiment with different responses or endpoints.
 You can also try adding more functionality and see how Docker helps in managing the dependencies and running your Python application consistently across different environments.
